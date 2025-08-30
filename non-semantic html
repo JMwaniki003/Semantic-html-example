@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Semantic HTML Example</title>
+      </head>
+      <body>
+        <header>
+            <h1>My Tech Blog</h1>
+                <nav>
+                      <ul>
+                              <li><a href="#home">Home</a></li>
+                                      <li><a href="#articles">Articles</a></li>
+                                              <li><a href="#contact">Contact</a></li>
+                                                    </ul>
+                                                        </nav>
+                                                          </header>
+
+                                                            <main>
+                                                                <section id="articles">
+                                                                      <article>
+                                                                              <h2>Why Semantic HTML Matters</h2>
+                                                                                      <p>Semantic HTML improves accessibility and SEO.</p>
+                                                                                              <figure>
+                                                                                                        <img src="semantic.jpg" alt="Semantic HTML diagram">
+                                                                                                                  <figcaption>An example of semantic structure.</figcaption>
+                                                                                                                          </figure>
+                                                                                                                                  <p>Published on <time datetime="2025-08-30">August 30, 2025</time></p>
+                                                                                                                                        </article>
+
+                                                                                                                                              <article>
+                                                                                                                                                      <h2>Best Practices for Web Development</h2>
+                                                                                                                                                              <p>Always use descriptive tags and follow W3C guidelines.</p>
+                                                                                                                                                                    </article>
+                                                                                                                                                                        </section>
+
+                                                                                                                                                                            <aside>
+                                                                                                                                                                                  <h3>Related Topics</h3>
+                                                                                                                                                                                        <ul>
+                                                                                                                                                                                                <li><a href="#">HTML5 Features</a></li>
+                                                                                                                                                                                                        <li><a href="#">CSS Tricks</a></li>
+                                                                                                                                                                                                              </ul>
+                                                                                                                                                                                                                  </aside>
+                                                                                                                                                                                                                    </main>
+
+                                                                                                                                                                                                                      <footer>
+                                                                                                                                                                                                                          <p>&copy; 2025 My Tech Blog. All rights reserved.</p>
+                                                                                                                                                                                                                            </footer>
+                                                                                                                                                                                                                            </body>
+                                                                                                                                                                                                                            </h
